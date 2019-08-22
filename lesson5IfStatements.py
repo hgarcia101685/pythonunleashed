@@ -43,7 +43,7 @@ num1 = 10
 num2 = 20
 num3 = 10
 if string is "hello":
-print("string is hello")
+    print("string is hello")
 else:
     print("string is not hello")
 if num1 is num3:
